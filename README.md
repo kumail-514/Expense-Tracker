@@ -6,8 +6,7 @@ This project helps users track daily expenses, manage spending habits, and under
 ---
 
 ## 🌐 Live Demo
-👉 *(Add your live demo link here – GitHub Pages / Netlify / Vercel)*
-
+https://syed-expense-tracker.netlify.app/
 ---
 
 ## 📌 Features
