@@ -18,8 +18,6 @@ https://kumail-514.github.io/Expense-Tracker/
 ✅ Delete expenses  
 ✅ Data persistence using **LocalStorage**  
 ✅ Clean and user-friendly UI  
-✅ Responsive design  
-
 ---
 
 ## 📖 Extended Description
